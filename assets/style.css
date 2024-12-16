@@ -33,6 +33,7 @@ height:25px;
 	border-color: blue;
 }
 .salary-output{
+    background-blend-mode: transparent
     display: grid;
     grid-template-columns: 600px  400px;
 }
